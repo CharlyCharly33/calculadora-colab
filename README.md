@@ -3,8 +3,8 @@
 Proyecto desarrollado en parejas para practicar colaboración con Git y GitHub.
 
 ## Integrantes
-- Alumno A: Owner del repositorio
-- Alumno B: Colaborador (Fork + PR)
+- Carlos: Owner del repositorio
+- Esau: Colaborador (Fork + PR)
 
 ## Funciones
 - suma
